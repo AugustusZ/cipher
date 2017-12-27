@@ -77,3 +77,23 @@ Considering the page title `ASCII`, decode the number and have the word for next
 
 ## 9
 
+See the source:
+
+```
+<!--something amiss?-->
+```
+
+and notice the image file name is `screen8.jpg` but it's level 9. 
+
+So change it to `screen9.jpg` and decode the notes to have `CABBAGE`.
+
+## 10
+
+See the title "This level is HEXed" and the commment below it:
+
+```
+<!--in a colorful sort of way-->
+```
+
+Pick hex color from the image to have the next word.
+
