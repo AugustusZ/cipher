@@ -17,6 +17,12 @@ Solutions for http://www.gamemastertips.com/cipher/cipher.htm
 | 9 | http://www.gamemastertips.com/cipher/creppy/agility.htm | |
 | 10 | http://www.gamemastertips.com/cipher/creppy/cabbage.htm | |
 | 11 | http://www.gamemastertips.com/cipher/pippity/ | `decade` |
+| 12 | http://www.gamemastertips.com/cipher/pippity/mix | |
+| 13 | http://www.gamemastertips.com/cipher/pippity/invention |
+| 13.5 | http://www.gamemastertips.com/cipher/pippity/madman | |
+| 14 | http://www.gamemastertips.com/cipher/pippity/puyrruh.htm | |
+| 15 | http://www.gamemastertips.com/cipher/pippity/dissolve | | 
+| 16 | http://www.gamemastertips.com/cipher/monkey/wrench.htm | `wrench` (username: `monkey`)| 
 
 ## 1
 
@@ -97,3 +103,30 @@ See the title "This level is HEXed" and the commment below it:
 
 Pick hex color from the image to have the next word.
 
+## 11
+
+Roman number for 1009 (watermarked in the image) => MIX
+
+## 12
+
+Simply use this tool http://www.hanginghyena.com/solvers_a/cryptogram-helper and tried out each word
+
+(The right way is, with the mappings given, to look at keyboard)
+
+## 13 
+
+Given the list of years, find out which month has the Nth Black Friday. 
+
+Concatenate the initials of each month -- `madman`
+
+## 14
+
+Just like the WAV file name and comment indicate, the sound should be reversed and sped up. 
+
+## 15
+
+The image source is actually a txt file. 
+
+Inside the txt file, it's a base64 string. 
+
+Decode it (using tool such as https://www.base64decode.org/) and you will see `/monkey/wrench.htm`.
